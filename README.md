@@ -26,4 +26,4 @@ Game Logic: The game logic involves tile movement, merging, and checking game st
 Installation
 There is no specific installation required to play the game. Simply open the index.html file in your web browser to start playing.
 
-
+[DEMO LINK](https://lmuias.github.io/Js-2048/)
